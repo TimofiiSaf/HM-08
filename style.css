@@ -1,0 +1,35 @@
+.paragraph {
+  color: pink;
+}
+
+.greycol {
+  color: gray;
+}
+
+.green {
+  color: green;
+}
+.yellow {
+  color: yellow;
+}
+.red {
+  color: red;
+}
+
+.day1 {
+  color: aqua;
+}
+.day2 {
+  background-color: brown;
+}
+.day3 {
+  font-size: 24px;
+}
+.day4 {
+  color: black;
+}
+.day5 {
+  color: yellow;
+  background-color: green;
+  font-size: 25px;
+}
