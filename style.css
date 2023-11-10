@@ -1,4 +1,4 @@
-.paragraph {
+.h3:first-child {
   color: pink;
 }
 
@@ -6,7 +6,7 @@
   color: gray;
 }
 
-.green {
+#text {
   color: green;
 }
 .yellow {
@@ -16,19 +16,19 @@
   color: red;
 }
 
-.day1 {
+.day1:hover {
   color: aqua;
 }
-.day2 {
+.day2:focus {
   background-color: brown;
 }
-.day3 {
+.day3:link {
   font-size: 24px;
 }
-.day4 {
+.day4:visited {
   color: black;
 }
-.day5 {
+.day5:disabled {
   color: yellow;
   background-color: green;
   font-size: 25px;
